@@ -5,7 +5,7 @@ import json
 app = Flask(__name__)
 
 # MongoDB Atlas Connection String
-MONGO_URI = "mongodb+srv://pawan23_db_user:Pawan23@cluster0.xx9m4hs.mongodb.net/?appName=Cluster0"
+MONGO_URI = "YOUR_DBCONNECTION_STRING"
 
 client = MongoClient(MONGO_URI)
 
