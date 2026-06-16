@@ -7,11 +7,16 @@
     {
         "id": 2,
         "name": "John",
-        "role": "Developer"
+        "role": "Senior Developer"
     },
     {
         "id": 3,
         "name": "Alice",
-        "role": "Designer"
+        "role": "UI/UX Designer"
+    },
+    {
+        "id": 4,
+        "name": "Charlie",
+        "role": "Tester"
     }
 ]
